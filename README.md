@@ -9,7 +9,7 @@ We hope that by publishing this data, along with subsequent updates to the datas
 
 The dataset, and methodology used to generate it, is described further in the publications:
 
-Keenan, T.F., and Ü. Niinemets (2017) Global leaf trait estimates biased due to plasticity in the shade/ *Nature Plants* **in press**
+Keenan, T.F., and Ü. Niinemets (2017) Global leaf trait estimates biased due to plasticity in the shade. *Nature Plants* **in press**
 
 Niinemets, Ü., T. F. Keenan, and L. Hallik (2015) A worldwide analysis of within-canopy variations in leaf structural, chemical and physiological traits across plant functional types. *New Phytologist* **205**:973–993. [10.1111/nph.13096](http://doi.org/10.1111/nph.13096)
 
