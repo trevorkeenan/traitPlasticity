@@ -1,5 +1,9 @@
 # A database of within canopy light driven trait plasticity 
 
+Contacts:
+Ülo Niinemets (ylo.niinemets@emu.ee)	Estonian University of Life Sciences, Kreutzwaldi 1, 51014 Tartu, Estonia; Estonian Academy of Sciences, Kohtu 6, 10130 Tallinn, Estonia
+Trevor Keenan (trevorkeenan@lbl.gov)	Lawrence Berkeley National Lab., Berkeley, CA 94720, USA
+
 ## About
 
 The Trait Plasticity Database (TRIP) contains data on the plasticity of traits within plant canopies from all over the globe. 
@@ -12,6 +16,8 @@ The dataset, and methodology used to generate it, is described further in the pu
 Keenan, T.F., and Ü. Niinemets (2017) Global leaf trait estimates biased due to plasticity in the shade. *Nature Plants* **in press**
 
 Niinemets, Ü., T. F. Keenan, and L. Hallik (2015) A worldwide analysis of within-canopy variations in leaf structural, chemical and physiological traits across plant functional types. *New Phytologist* **205**:973–993. [10.1111/nph.13096](http://doi.org/10.1111/nph.13096)
+
+Niinemets, Ü. 2016. Leaf age dependent changes in within‑canopy variation in leaf functional traits: a meta ‑ analysis. *Journal of Plant Research* **129**:313–338. [10.1007/s10265-016-0815-2](http://doi.org/10.1007/s10265-016-0815-2)
 
 Niinemets, Ü., and T. F. Keenan (2012). Measures of light in studies on light-driven plant plasticity in artificial environments. *Frontiers in Plant Science* **3**:156. [10.3389/fpls.2012.00156](http://doi.org/10.3389/fpls.2012.00156)
 
@@ -30,7 +36,7 @@ There are two options for accessing data within traitPlasticity.
 You can download a compiled version of the TRIP database from:
 
 1. Releases we have posted on [github](https://github.com/trevorkeenan/traitPlasticity/releases).
-3. The [traitPlasticity.data](https://github.com/traitecoevo/traitPlasticity.data) package for `R` (in development).
+2. The [traitPlasticity.data](https://github.com/traitecoevo/traitPlasticity.data) package for `R` (in development).
 
 The database contains the following elements
 
