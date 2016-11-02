@@ -35,7 +35,7 @@ You can download a compiled version of the TRIP database from:
 The database contains the following elements
 
 - `data`: amalgamated dataset (table), with columns as defined in `dictionary`
-- `dictionary`: a table of variable definitions
+- `dictionary`: See See [config/variableDefinitions.csv](config/variableDefinitions.csv) for a table of variable definitions
 - `metadata`: a table with columns "studyName","Topic","Description", containing written information about the methods used to collect the data
 - `methods`: a table with columns as in data, but containing a code for the methods used to collect the data. See [config/methodsDefinitions.csv](config/methodsDefinitions.csv) for codes.
 - `references`: as both summary table and bibtex entries containing the primary source for each study
