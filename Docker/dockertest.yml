@@ -1,0 +1,5 @@
+# One image to generate:
+names:
+  # This is the source unpacked and all dependencies installed.
+  clean: trevorkeenan/traitPlasticity
+source: https://github.com/trevorkeenan/traitPlasticity
