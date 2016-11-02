@@ -12,7 +12,7 @@ Trevor Keenan (trevorkeenan@lbl.gov)	Climate and Environmental Science Division,
 The Trait Plasticity Database (TRIP) contains data on the plasticity of traits within plant canopies from all over the globe. 
 These data represent over 200 species from around the world, gathered from previously published scientific studies, along with unpublished data associated with specific publications.   
 
-We hope that by publishing this data, along with subsequent updates to the dataset, we can help improve our ability to understand within canopy changes in plant traits, and the implications for understanding gloabl trait variation.
+We hope that by publishing this data, along with subsequent updates to the dataset, we can help improve understanding of within canopy changes in plant traits, and the implications for global trait variation.
 
 The dataset, and methodology used to generate it, is described further in the publications:
 
@@ -25,7 +25,6 @@ Niinemets, Ü. 2016. Leaf age dependent changes in within‑canopy variation in 
 Niinemets, Ü., and T. F. Keenan (2012). Measures of light in studies on light-driven plant plasticity in artificial environments. *Frontiers in Plant Science* **3**:156. [10.3389/fpls.2012.00156](http://doi.org/10.3389/fpls.2012.00156)
 
 At time of publication, the TRIP database contained 831 within canopy gradients for over 200 different species, for leaf mass per area (LMA), net assimilation (A) and leaf nitrogen (N) on both a mass (m) and area (a) basis. 
-Details of individual studies contributed to the TRIP database are given are available in these [online reports](https://github.com/trevorkeenan/traitPlasticity/wiki).
 
 ## Using the TRIP database
 
@@ -45,12 +44,10 @@ The database contains the following elements
 
 - `data`: amalgamated dataset (table), with columns as defined in `dictionary`
 - `dictionary`: See [config/variableDefinitions.csv](config/variableDefinitions.csv) for a table of variable definitions
-- `metadata`: a table with columns "studyName","Topic","Description", containing written information about the methods used to collect the data
-- `methods`: a table with columns as in data, but containing a code for the methods used to collect the data. See [config/methodsDefinitions.csv](config/methodsDefinitions.csv) for codes.
 - `references`: as both summary table and bibtex entries containing the primary source for each study
 - `contacts`: See [config/contacts.csv](config/contacts.csv) table with contact information and affiliations
+- `methods`: (in dev.) a table with columns as in data, but containing a code for the methods used to collect the data. See [config/methodsDefinitions.csv](config/methodsDefinitions.csv) for codes.
 These elements are available at both of the above links as a series of CSV and text files.
-
 
 To download an earlier or more recent version (where version numbers will follow the [semantic versioning](http://semver.org) guidelines. The traitPlasticity.data package caches everything so subsequent calls, even across sessions, are very fast. 
 This should facilitate greater reproducibility by making it easy to depend on the version used for a particular analysis, and allowing different analyses to use different versions of the database. 
