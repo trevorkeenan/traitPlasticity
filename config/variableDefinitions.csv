@@ -1,0 +1,18 @@
+variable,units,group,type,has_methods,essential,label,minValue,maxValue,allowableValues,description
+ID,NA,site,character,FALSE,TRUE,ID,NA,NA,NA,Index of unique entries
+Lat,deg,site,numeric,FALSE,TRUE,latitude,-90,90,NA,"latitude of location where sampled (-90 to 90 deg South to North, wild grown plants only)"
+Lon,deg,site,numeric,FALSE,TRUE,longitude,-180,180,NA,"longitude of location where sampled (-180 to 180 West to East, wild grown plants only)"
+Elev,m,site,numeric,FALSE,FALSE,Elev,-0.6,2500,NA,elevation of location where sampled
+Aa_40,umol m-2 s-1,individual,numeric,TRUE,FALSE,Aa_40,0.00E+00,100,NA,Assimilation rate (light saturated) on an area basis at canopy depth corresponding to average light conditions during development of 40 mol m-2 s-1
+Aa_3,umol m-2 s-1,individual,numeric,TRUE,FALSE,Aa_3,0.00E+00,100,NA,Assimilation rate (light saturated) on an area basis at canopy depth corresponding to average light conditions during development of 3 mol m-2 s-1
+Am_40,%,individual,numeric,TRUE,FALSE,Am_40,0.00E+00,100,NA,Assimilation rate (light saturated) on a mass basis at canopy depth corresponding to average light conditions during development of 40 mol m-2 s-1
+Am_3,%,individual,numeric,TRUE,FALSE,Am_3,0.00E+00,100,NA,Assimilation rate (light saturated) on a mass basis at canopy depth corresponding to average light conditions during development of 3 mol m-2 s-1
+Na_40,g m-2,individual,numeric,TRUE,FALSE,Na_40,0.00E+00,100,NA,Nitrogen content on an area basis at canopy depth corresponding to average light conditions during development of 40 mol m-2 s-1
+Na_3,g m-2,individual,numeric,TRUE,FALSE,Na_3,0.00E+00,100,NA,Nitrogen content on an area basis at canopy depth corresponding to average light conditions during development of 3 mol m-2 s-1
+Nm_40,%,individual,numeric,TRUE,FALSE,Nm_40,0.00E+00,100,NA,Nitrogen content  on a mass basis at canopy depth corresponding to average light conditions during development of 40 mol m-2 s-1
+Nm_3,%,individual,numeric,TRUE,FALSE,Nm_3,0.00E+00,100,NA,Nitrogen content on a mass basis at canopy depth corresponding to average light conditions during development of 3 mol m-2 s-1
+LMA_40,g m-2,individual,numeric,TRUE,FALSE,LMA_40,0.00E+00,1000,NA,Leaf mass per area at canopy depth corresponding to average light conditions during development of 40 mol m-2 s-1
+LMA_3,g m-2,individual,numeric,TRUE,FALSE,LMA_3,0.00E+00,1000,NA,Leaf mass per area at canopy depth corresponding to average light conditions during development of 3 mol m-2 s-1
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

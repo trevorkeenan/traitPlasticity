@@ -10,16 +10,18 @@ We hope that by publishing this data, along with subsequent updates to the datas
 The dataset, and methodology used to generate it, is described further in the publications:
 
 Keenan, T.F., and Ü. Niinemets (2017) Global leaf trait estimates biased due to plasticity in the shade/ *Nature Plants* **in press**
+
 Niinemets, Ü., T. F. Keenan, and L. Hallik (2015) A worldwide analysis of within-canopy variations in leaf structural, chemical and physiological traits across plant functional types. *New Phytologist* **205**:973–993. [10.1111/nph.13096](http://doi.org/10.1111/nph.13096)
+
 Niinemets, Ü., and T. F. Keenan (2012). Measures of light in studies on light-driven plant plasticity in artificial environments. *Frontiers in Plant Science* **3**:156. [10.3389/fpls.2012.00156](http://doi.org/10.3389/fpls.2012.00156)
 
-At time of publication, the traitPlasticity contained 831 within canopy gradients for over 200 different species, for leaf mass per area (LMA), net assimilation (A) and leaf nitrogen (N) on both a mass (m) and an area (a) basis. 
-Details about individual studies contributed to the traitPlasticity are given are available in these [online reports](https://github.com/trevorkeenan/traitPlasticity/wiki).
+At time of publication, the TRIP database contained 831 within canopy gradients for over 200 different species, for leaf mass per area (LMA), net assimilation (A) and leaf nitrogen (N) on both a mass (m) and area (a) basis. 
+Details of individual studies contributed to the TRIP database are given are available in these [online reports](https://github.com/trevorkeenan/traitPlasticity/wiki).
 
-## Using the TRIP Database
+## Using the TRIP database
 
 The database is released under the [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) public domain waiver, and can therefore be reused without restriction. 
-To recognise the work that has gone into building the database, we kindly ask that you cite the above articles, or when using data from only one or few of the individual studies, the original articles if you prefer.
+To recognise the work that has gone into building the database, we kindly ask that you cite the above articles and acknowledge the database through it's DOI. When using data from only one or a few of the individual studies, please cite the original articles if you prefer.
 
 There are two options for accessing data within traitPlasticity.
 
@@ -28,7 +30,7 @@ There are two options for accessing data within traitPlasticity.
 You can download a compiled version of the TRIP database from:
 
 1. Releases we have posted on [github](https://github.com/trevorkeenan/traitPlasticity/releases).
-3. The [traitPlasticity.data](https://github.com/traitecoevo/traitPlasticity.data) package for `R`.
+3. The [traitPlasticity.data](https://github.com/traitecoevo/traitPlasticity.data) package for `R` (in development).
 
 The database contains the following elements
 
