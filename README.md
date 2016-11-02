@@ -74,5 +74,6 @@ We are extremely grateful to all the researchers who published these data over t
 ## Funding sources
 
 T.F. Keenan was funded through a Laboratory Directed Research and Development (LDRD) fund under the auspices of DOE, BER Office of Science at Lawrence Berkeley National Laboratory. 
+
 Ülo Niinemets acknowledges funding support for this study was provided by the Estonian Ministry of Science and Education (institutional grant IUT-8-3) and the European Commission through the European Regional Fund (Center of Excellence in Environmental Adaptation), the European Social Fund (postdoc- toral grant MJD122) and the European Research Council (advanced grant 322603, SIP-VOL+).
 
