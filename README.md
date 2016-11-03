@@ -31,7 +31,6 @@ At time of publication, the TRIP database contained 831 within canopy gradients 
 The database is released under the [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) public domain waiver, and can therefore be reused without restriction. 
 To recognise the work that has gone into building the database, we kindly ask that you cite the above articles and acknowledge the database through it's DOI. When using data from only one or a few of the individual studies, please cite the original articles if you prefer.
 
-There are two options for accessing data within traitPlasticity.
 
 ### Download compiled database
 
@@ -79,7 +78,7 @@ We are extremely grateful to all the researchers who published these data over t
 
 ## Funding sources
 
-T.F. Keenan was funded through a Laboratory Directed Research and Development (LDRD) fund under the auspices of DOE, BER Office of Science at Lawrence Berkeley National Laboratory. 
+T.F. Keenan was funded through a Laboratory Directed Research and Development (LDRD) fund under the auspices of DOE, BER Office of Science at Lawrence Berkeley National Laboratory. Additional funding from a Macquarie University Research Fellowship is also acknowledged. 
 
 Ülo Niinemets acknowledges funding support for this study was provided by the Estonian Ministry of Science and Education (institutional grant IUT-8-3) and the European Commission through the European Regional Fund (Center of Excellence in Environmental Adaptation), the European Social Fund (postdoc- toral grant MJD122) and the European Research Council (advanced grant 322603, SIP-VOL+).
 
