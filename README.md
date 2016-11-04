@@ -1,4 +1,4 @@
-# CANTRIP: A database of within __can__opy light-driven _tr_a_i_t _p_lasticity 
+# CANTRIP: A database of within [u]can[/u]opy light-driven _tr_a_i_t _p_lasticity 
 
 Contacts:
 
