@@ -50,6 +50,7 @@ The database contains the following elements
 - `figures`: A repository of community contributed figures.
 - `methods`: (in dev.) a table with columns as in data, but containing a code for the methods used to collect the data. See [config/methodsDefinitions.csv](config/methodsDefinitions.csv).
 - `docker`: (in dev.) use docker to load images containing the source code and required open-source packages to run analyses
+
 These elements are available at both of the above links as a series of CSV and text files.
 
 To download an earlier or more recent version (where version numbers will follow the [semantic versioning](http://semver.org) guidelines. The traitPlasticity.data package caches everything so subsequent calls, even across sessions, are very fast. 
@@ -85,3 +86,6 @@ T.F. Keenan was funded through a Laboratory Directed Research and Development (L
 
 Ülo Niinemets acknowledges funding support for this study was provided by the Estonian Ministry of Science and Education (institutional grant IUT-8-3) and the European Commission through the European Regional Fund (Center of Excellence in Environmental Adaptation), the European Social Fund (postdoc- toral grant MJD122) and the European Research Council (advanced grant 322603, SIP-VOL+).
 
+
+
+Cantrip: a word of Gaelic origin to mean a magical spell of any kind

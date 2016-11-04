@@ -1,7 +1,7 @@
 
 # Description
 
-The reference library contains the list of original studies that contributed observations to the TRIP database.
+The reference library contains the list of original studies that contributed observations to the CANTRIP database.
 
 The library is mirrored in various formats.
 
