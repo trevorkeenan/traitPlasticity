@@ -1,4 +1,4 @@
-# A database of within canopy light driven trait plasticity 
+# CANTRIP: A database of within _can_opy light-driven _tr_a_i_t _p_lasticity 
 
 Contacts:
 
@@ -9,7 +9,7 @@ Trevor Keenan (trevorkeenan@lbl.gov)	Climate and Environmental Science Division,
 
 ## About
 
-The Trait Plasticity Database (TRIP) contains data on the plasticity of traits within plant canopies from all over the globe. 
+The Canopy Trait Plasticity Database (CANTRIP) contains data on the light-driven plasticity of traits within plant canopies from all over the globe. 
 These data represent over 200 species from around the world, gathered from previously published scientific studies, along with unpublished data associated with specific publications.   
 
 We hope that by publishing this data, along with subsequent updates to the dataset, we can help improve understanding of within canopy changes in plant traits, and the implications for global trait variation.
@@ -24,9 +24,9 @@ Niinemets, Ü. 2016. Leaf age dependent changes in within‑canopy variation in 
 
 Niinemets, Ü., and T. F. Keenan (2012). Measures of light in studies on light-driven plant plasticity in artificial environments. *Frontiers in Plant Science* **3**:156. [10.3389/fpls.2012.00156](http://doi.org/10.3389/fpls.2012.00156)
 
-At time of publication, the TRIP database contained 831 within canopy gradients for over 200 different species, for leaf mass per area (LMA), net assimilation (A) and leaf nitrogen (N) on both a mass (m) and area (a) basis. 
+At time of publication, the CANTRIP database contained 831 within canopy gradients for over 200 different species, for leaf mass per area (LMA), net assimilation (A) and leaf nitrogen (N) on both a mass (m) and area (a) basis. 
 
-## Using the TRIP database
+## Using the CANTRIP database
 
 The database is released under the [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) public domain waiver, and can therefore be reused without restriction. 
 To recognise the work that has gone into building the database, we kindly ask that you cite the above articles and acknowledge the database through it's DOI. When using data from only one or a few of the individual studies, please cite the original articles if you prefer.
@@ -34,7 +34,7 @@ To recognise the work that has gone into building the database, we kindly ask th
 
 ### Download compiled database
 
-You can download a compiled version of the TRIP database from:
+You can download a compiled version of the CANTRIP database from:
 
 1. Releases we have posted on [github](https://github.com/trevorkeenan/traitPlasticity/releases).
 2. The [traitPlasticity.data](https://github.com/traitecoevo/traitPlasticity.data) package for `R` (in development).
