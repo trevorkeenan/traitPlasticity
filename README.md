@@ -1,6 +1,6 @@
 # CANTRIP: The **Can**opy **Tr**a**i**t **P**lasticity Database
 
-Contacts:
+*Contacts:*
 
 Trevor Keenan (trevorkeenan@lbl.gov)	Climate and Environmental Science Division, Lawrence Berkeley National Lab., Berkeley, CA 94720, USA
 
@@ -9,13 +9,13 @@ Trevor Keenan (trevorkeenan@lbl.gov)	Climate and Environmental Science Division,
 
 ## About
 
-The ***Can***opy ***Tr***a***i***t ***P***lasticity Database (CANTRIP) contains data on the light-driven plasticity of traits within plant canopies from all over the globe. 
+The **Can**opy **Tr**a**i**t **P**lasticity Database (CANTRIP) contains data on the light-driven plasticity of traits within plant canopies from all over the globe. 
 
 These data represent over 200 species from around the world, gathered from previously published scientific studies, along with unpublished data associated with specific publications.   
 
 We hope that by publishing this data, along with subsequent updates to the dataset, we can help improve understanding of within canopy changes in plant traits, and the implications for global trait variation.
 
-The dataset, and methodology used to generate it, is described further in the publications:
+The data and methodology used to generate the dataset are described further in the publications:
 
 Keenan, T.F., and Ü. Niinemets (2017) Global leaf trait estimates biased due to plasticity in the shade. *Nature Plants* **in press**
 
@@ -31,7 +31,7 @@ At time of publication, the CANTRIP database contained 831 within canopy gradien
 
 The database is released under the [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) public domain waiver, and can therefore be reused without restriction. 
 To recognise the work that has gone into building the database, we kindly ask that you cite the above articles and acknowledge the database through it's DOI. When using data from only one or a few of the individual studies, please cite the original articles if you prefer.
-
+Of course we would love to hear of any interesting science you are doing with the dataset.
 
 ### Download compiled database
 
@@ -46,7 +46,10 @@ The database contains the following elements
 - `dictionary`: See [config/variableDefinitions.csv](config/variableDefinitions.csv) for a table of variable definitions
 - `references`: as both summary table and bibtex entries containing the primary source for each study
 - `contacts`: See [config/contacts.csv](config/contacts.csv) table with contact information and affiliations
-- `methods`: (in dev.) a table with columns as in data, but containing a code for the methods used to collect the data. See [config/methodsDefinitions.csv](config/methodsDefinitions.csv) for codes.
+- `code`: A repository of code used with the dataset.
+- `figures`: A repository of community contributed figures.
+- `methods`: (in dev.) a table with columns as in data, but containing a code for the methods used to collect the data. See [config/methodsDefinitions.csv](config/methodsDefinitions.csv).
+- `docker`: (in dev.) use docker to load images containing the source code and required open-source packages to run analyses
 These elements are available at both of the above links as a series of CSV and text files.
 
 To download an earlier or more recent version (where version numbers will follow the [semantic versioning](http://semver.org) guidelines. The traitPlasticity.data package caches everything so subsequent calls, even across sessions, are very fast. 
@@ -57,7 +60,6 @@ Further details about the different versions and changes between versions is ava
 ## Details about the data distribution system
 
 We envisage that there will be periodic updates to the Trait Plasticity database as we add more data. These updates will correspond with changes to the version number of this resource, and each version of the database will be available on [github](https://github.com/trevorkeenan/traitPlasticity/releases) and via the [traitPlasticity.data](https://github.com/traitecoevo/traitPlasticity.data) package. If you use this resource for a published analysis, please note the version number in your publication.  This will allow anyone in the future to go back and find **exactly** the same version of the data that you used.
-
 
 ## Reproducing older versions of the database and the paper from Nature Plants
 
@@ -75,7 +77,7 @@ remake::make("manuscript")
 
 ## Acknowledgements
 
-We are extremely grateful to all the researchers who published these data over the past decades. We thank Kaia Kask for assistance in data digitization and database management, and Anne Aan, Niels Anten, Ismael Aranda, Jan Cerm ak, Robin Chazdon, Theodore DeJong, Tim Fahey, Manfred Forstreuter, Yuko Hanba, Hiromitsu Kisanuki, Patrick Meir, Domingo Morales, Serge Rambal, Maria Soledad Jim enez Parrondo, Ingmar Tulva and Charlie Warren for providing details of the experimental design and/or unpublished data accompanying published datasets. We also thank Takayoshi Koike, Yukihiro Chiba and Ichiro Terashima for help with Japanese papers, and Susanne von Caemmerer for clarifications with regard to Rubisco kinetic characteristics. 
+We are extremely grateful to all the researchers who published these data over the past decades. We thank Kaia Kask for assistance in data digitization and database management, and Anne Aan, Niels Anten, Ismael Aranda, Jan Cerm ak, Robin Chazdon, Theodore DeJong, Tim Fahey, Manfred Forstreuter, Yuko Hanba, Hiromitsu Kisanuki, Patrick Meir, Domingo Morales, Serge Rambal, Maria Soledad Jimenez Parrondo, Ingmar Tulva and Charlie Warren for providing details of the experimental design and/or unpublished data accompanying published datasets. We also thank Takayoshi Koike, Yukihiro Chiba and Ichiro Terashima for help with Japanese papers, and Susanne von Caemmerer for clarifications with regard to Rubisco kinetic characteristics. 
 
 ## Funding sources
 
