@@ -1,4 +1,4 @@
-# CANTRIP: A database of within **can**opy light-driven _tr_a_i_t _p_lasticity 
+# CANTRIP: The **Can**opy **Tr**a**i**t **P**lasticity Database
 
 Contacts:
 
@@ -9,7 +9,8 @@ Trevor Keenan (trevorkeenan@lbl.gov)	Climate and Environmental Science Division,
 
 ## About
 
-The Canopy Trait Plasticity Database (CANTRIP) contains data on the light-driven plasticity of traits within plant canopies from all over the globe. 
+The **Can**opy **Tr**a**i**t **P**lasticity Database (CANTRIP) contains data on the light-driven plasticity of traits within plant canopies from all over the globe. 
+
 These data represent over 200 species from around the world, gathered from previously published scientific studies, along with unpublished data associated with specific publications.   
 
 We hope that by publishing this data, along with subsequent updates to the dataset, we can help improve understanding of within canopy changes in plant traits, and the implications for global trait variation.
