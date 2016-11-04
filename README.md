@@ -9,7 +9,7 @@ Trevor Keenan (trevorkeenan@lbl.gov)	Climate and Environmental Science Division,
 
 ## About
 
-The **Can**opy **Tr**a**i**t **P**lasticity Database (CANTRIP) contains data on the light-driven plasticity of traits within plant canopies from all over the globe. 
+The **__Can__**opy **__Tr__**a**__i__**t **__P__**lasticity Database (CANTRIP) contains data on the light-driven plasticity of traits within plant canopies from all over the globe. 
 
 These data represent over 200 species from around the world, gathered from previously published scientific studies, along with unpublished data associated with specific publications.   
 
