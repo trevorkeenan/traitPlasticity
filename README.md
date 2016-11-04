@@ -90,4 +90,4 @@ T.F. Keenan was funded through a Laboratory Directed Research and Development (L
 
 
 
-Cantrip: a word of Gaelic origin to mean a magical spell of any kind
+Cantrip: a word of Gaelic origin to mean a magical spell
