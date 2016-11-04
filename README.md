@@ -1,5 +1,7 @@
 # CANTRIP: The **Can**opy **Tr**a**i**t **P**lasticity Database
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.164883.svg)](https://doi.org/10.5281/zenodo.164883)
+
 *Contacts:*
 
 Trevor Keenan (trevorkeenan@lbl.gov)	Climate and Environmental Science Division, Lawrence Berkeley National Lab., Berkeley, CA 94720, USA
@@ -84,7 +86,7 @@ We are extremely grateful to all the researchers who published these data over t
 
 T.F. Keenan was funded through a Laboratory Directed Research and Development (LDRD) fund under the auspices of DOE, BER Office of Science at Lawrence Berkeley National Laboratory. Additional funding from a Macquarie University Research Fellowship is also acknowledged. 
 
-Ülo Niinemets acknowledges funding support for this study was provided by the Estonian Ministry of Science and Education (institutional grant IUT-8-3) and the European Commission through the European Regional Fund (Center of Excellence in Environmental Adaptation), the European Social Fund (postdoc- toral grant MJD122) and the European Research Council (advanced grant 322603, SIP-VOL+).
+Ülo Niinemets acknowledges funding support for this study was provided by the Estonian Ministry of Science and Education (institutional grant IUT-8-3) and the European Commission through the European Regional Fund (Center of Excellence in Environmental Adaptation), the European Social Fund (postdoctoral grant MJD122) and the European Research Council (advanced grant 322603, SIP-VOL+).
 
 
 
